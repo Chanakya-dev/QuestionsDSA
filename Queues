@@ -1,0 +1,91 @@
+# Basic Queue Problems
+
+1. **Create a Queue**  
+   Write a function to create an empty queue.
+
+2. **Enqueue an Element**  
+   Implement a function to add an element to the rear of the queue.
+
+3. **Dequeue an Element**  
+   Write a function to remove and return the front element from the queue.
+
+4. **Peek at the Front Element**  
+   Implement a function that returns the front element of the queue without removing it.
+
+5. **Check if the Queue is Empty**  
+   Write a function to check if the queue is empty.
+
+6. **Get the Size of the Queue**  
+   Implement a function that returns the number of elements in the queue.
+
+7. **Clear the Queue**  
+   Write a function to remove all elements from the queue.
+
+8. **Check if the Queue is Full**  
+   Implement a function that checks if the queue is full (for fixed-size implementations).
+
+9. **Reverse the Queue**  
+   Write a function that reverses the elements of the queue.
+
+10. **Implement a Queue using Stacks**  
+    Implement a queue using two stacks to handle enqueue and dequeue operations.
+
+# Queue MCQs
+
+1. **What is the time complexity of the enqueue operation in a queue implemented using a linked list?**  
+   A) O(1)  
+   B) O(n)  
+   C) O(log n)  
+   D) O(n^2)  
+   **Answer:** A
+
+2. **Which of the following operations removes an element from the front of the queue?**  
+   A) Enqueue  
+   B) Dequeue  
+   C) Peek  
+   D) Add  
+   **Answer:** B
+
+3. **In a circular queue, what condition indicates that the queue is full?**  
+   A) Front pointer is at the end of the array  
+   B) Rear pointer is at the end of the array  
+   C) (Rear + 1) % size == Front  
+   D) Front == Rear  
+   **Answer:** C
+
+4. **Which of the following is true about queues?**  
+   A) They follow LIFO order  
+   B) They follow FIFO order  
+   C) They can be accessed randomly  
+   D) They can be sorted easily  
+   **Answer:** B
+
+5. **What is the primary use case for a queue?**  
+   A) Undo functionality in applications  
+   B) Order processing in printing  
+   C) Storing data temporarily  
+   D) Recursion  
+   **Answer:** B
+
+# Fill in the Blanks
+
+1. The primary data structure for implementing a queue is __________.
+
+2. In a queue, the operation that adds an element is called __________.
+
+3. The operation that removes an element from the front of the queue is known as __________.
+
+4. A queue is said to be __________ when there are no elements present in it.
+
+5. In a circular queue, the front and rear pointers are used to efficiently utilize __________ memory.
+
+6. The time complexity of the dequeue operation in a queue is __________.
+
+7. In a queue, the __________ operation allows you to see the front element without removing it.
+
+8. When implementing a queue using an array, if the queue is full, adding another element will result in __________.
+
+9. A queue can be implemented using __________, which allows for more flexible size management.
+
+10. The first element added to a queue will be the first one to be __________ when dequeued.
+
