@@ -1,34 +1,37 @@
 # Basic Linked List Questions
 
-1. **Insert a Node**  
-   Write a function to insert a new node at the beginning of a linked list.
+# Basic Linked List Problems
 
-2. **Delete a Node**  
-   Implement a function to delete a node by value from a linked list.
+1. **Create a Linked List**  
+   Write a function to create a linked list from a given array of integers.
 
-3. **Search for a Value**  
-   Write a function that searches for a specific value in a linked list and returns true if found.
+2. **Print a Linked List**  
+   Implement a function to print all elements of a linked list.
 
-4. **Get Length of Linked List**  
-   Implement a function to calculate and return the length of a linked list.
+3. **Insert a Node at the Beginning**  
+   Write a function to insert a new node at the beginning of the linked list.
 
-5. **Print Linked List**  
-   Write a function to print all the elements of a linked list.
+4. **Insert a Node at the End**  
+   Implement a function to add a new node at the end of the linked list.
 
-6. **Reverse a Linked List**  
-   Implement a function that reverses a linked list.
+5. **Delete a Node by Value**  
+   Write a function that deletes the first node in the linked list that contains a given value.
 
-7. **Detect a Cycle**  
-   Write a function to detect if a linked list has a cycle in it.
+6. **Find a Node by Value**  
+   Implement a function to search for a node in the linked list by its value and return its position (index).
 
-8. **Merge Two Linked Lists**  
-   Implement a function that merges two sorted linked lists into one sorted linked list.
+7. **Count Nodes in a Linked List**  
+   Write a function that counts the total number of nodes in a linked list.
 
-9. **Get Middle Element**  
-   Write a function that returns the middle element of a linked list.
+8. **Check if a Linked List is Empty**  
+   Implement a function to check if the linked list is empty (i.e., has no nodes).
 
-10. **Delete the Last Node**  
-    Implement a function that deletes the last node from a linked list.
+9. **Get the First Node**  
+   Write a function that returns the first node of the linked list.
+
+10. **Get the Last Node**  
+    Implement a function to retrieve the last node of the linked list.
+
 
 # Basic Linked List MCQs
 
